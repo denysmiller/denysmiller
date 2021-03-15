@@ -5,5 +5,5 @@
 <img src="http://views.whatilearened.today/views/github/dengt8/views.svg"/>
 
 <p>
-  🔗 Do you want to contact me? You can send me <a href="mailto:dengt17@gmail.com?">email</a>!
+  🔗 Do you want to contact me? You can send me an <a href="mailto:dengt17@gmail.com?">email</a>!
 </p><br/>
